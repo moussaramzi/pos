@@ -1,7 +1,7 @@
 # POS System
 
 This is a Point of Sale (POS) system where users can place orders. The application is built using **PHP**, **Livewire**, and **Laravel**.
-this project is not yet completed but does contains the basics.
+This project is not yet completed but does contains the basics.
 
 ## Features
 
