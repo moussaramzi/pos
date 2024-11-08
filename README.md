@@ -22,7 +22,7 @@ This is a Point of Sale (POS) system where users can place orders. The applicati
 
 ![image](https://github.com/user-attachments/assets/978de227-aebe-4cc2-a195-a5d3232478c9)
 
-##Admin:
+### Admin:
 
 ![image](https://github.com/user-attachments/assets/6f84d5eb-b4c9-40fc-8914-58086ccc3faf)
 
