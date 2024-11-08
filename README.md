@@ -15,7 +15,7 @@ This is a Point of Sale (POS) system where users can place orders. The applicati
 - **Livewire**
 - **HTML**
 
-## some screenshots
+## Some screenshots
 ![image](https://github.com/user-attachments/assets/0a85baa9-cee7-42b3-be67-b15a1a22849e)
 
 ![image](https://github.com/user-attachments/assets/4036fdd8-0e87-43fa-b7ae-3245eb287c3c)
