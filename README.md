@@ -29,3 +29,7 @@ This project is not yet completed but does contains the basics.
 
 ![image](https://github.com/user-attachments/assets/a35315aa-933d-4ed8-a268-b8c248c3e652)
 
+### Database:
+![image](https://github.com/user-attachments/assets/15dca52d-dff4-48d2-928f-5ff74d0f538f)
+
+
